@@ -39,6 +39,7 @@
   height: 125px;
   background-color: #000000;
 }
+#Akern {left: 40px;}
 .B {
   position: relative;
   top: 12.5px;
@@ -357,6 +358,7 @@
   height: 110px;
   background-color: #000000;
 }
+#Nkern {left: 40px;}
 .N {
   position: relative;
   top: 12.5px;
